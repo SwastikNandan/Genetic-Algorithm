@@ -1,0 +1,9 @@
+Please use python3 to run all the scripts.
+
+INDEX:
+
+genetic_algorithm_final.py --> Base-10 population size 2000
+genetic_algorithm_singlegenefinal.py --> Single gene population size 2000
+genetic_algorithm_singlegenefinal_populationsize20.py --> Single gene population size 70
+genetic_algorithm__bestindividual.py --> Algorithm to find the best individual or the best x value
+
